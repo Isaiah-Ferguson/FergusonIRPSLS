@@ -1,0 +1,135 @@
+@font-face {
+  font-family: Brush;
+  src: url(../fonts/Backbones-YzAoL.ttf);
+}
+
+
+
+.userText{
+  font-family: Brush;
+  font-size: 50px;
+}
+
+.grad {
+    background-image: linear-gradient(rgb(239, 117, 117), white);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+
+  .Buttons{
+    border-radius: 25px;
+    height: 100px;
+    width: 300px;
+    background-color: rgb(0, 0, 0, 06);
+    color: white;
+    font-size: xx-large;
+    font-weight: 800;
+  }
+
+  .hide{
+    display: none;
+  }
+  .reveal{
+    display: block;
+  }
+
+  .counterText{
+    background-color: rgb(0, 0, 0, 06);
+      height: 100px;
+      width: 300px;
+      color: white;
+      font-size: 34px;
+      font-weight: 800;
+  }
+
+  .input-box{
+    box-sizing: border-box;
+    width: 50%;
+    font-size:xx-large;
+    font-family: Brush;
+    font-weight: 800;
+}
+
+.nameText{
+  font-family: Brush;
+font-size: 100px;
+text-align: center;
+color: black;
+}
+
+.gameButtons{
+  border-radius: 100px;
+  height: 150px;
+  width: 150px;
+  background-color: rgb(0, 0, 0, 06);
+  color: white;
+  font-size: xx-large;
+  font-weight: 800;
+}
+
+.introButton{
+  border-radius: 500px;
+  height: 640px;
+  width: 640px;
+  background-color: rgb(0, 0, 0, 06);
+  color: white;
+  font-size: 50px;
+  font-weight: 800;
+}
+
+
+.introText{
+  font-family: Brush;
+  font-size: 100px;
+  text-align: center;
+  color: black;
+}
+
+.roundButton{
+  background-color: blue;
+  border-radius: 10px;
+  height: 20px;
+  width: 20px;
+}
+
+.gameModeText{
+  font-family: Brush;
+  font-size: 150px;
+  text-align: center;
+  color: black;
+}
+
+.gameModeTextTwo{
+  font-family: Brush;
+  font-size: 100px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.bg1{
+  background-image: url(../assets/bg1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 961px;
+}
+
+.bg2{
+  background-image: url(../assets/bg2.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 961px;
+}
+
+.bg3{
+  background-image: url(../assets/bg3.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 961px;
+  color: white;
+}
+
+.bgText{
+    font-family: Brush;
+    color: white;
+}
